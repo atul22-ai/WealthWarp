@@ -61,8 +61,7 @@ WealthWarp is a comprehensive personal finance visualization tool that empowers 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wealthwarp.git
-cd wealthwarp
+git clone https://github.com/atul22-ai/WealthWarp
 ```
 
 2. Install dependencies:
@@ -184,3 +183,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Recharts](https://recharts.org/)
 - [Lucide Icons](https://lucide.dev/)
 - [Vite](https://vitejs.dev/)
+
+## Deployment links
+-Authentication and updating expenses
+  --https://earnest-jalebi-40a4f6.netlify.app/
+-Dashboard and platform features along with privacy and accesibility settings
+  --https://taupe-melba-8c45f2.netlify.app/
+
