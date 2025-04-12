@@ -188,6 +188,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 -Authentication and updating expenses
   --https://earnest-jalebi-40a4f6.netlify.app/
   
--Dashboard and platform features along with privacy and accesibility settings
+-Dashboard and platform features along with privacy and accessibility settings
   --https://taupe-melba-8c45f2.netlify.app/
 
